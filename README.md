@@ -1,14 +1,9 @@
-
-
+**Demo:**
 https://github.com/user-attachments/assets/6b935c21-b49e-412a-be3c-77379a0eefe3
 
 # QA Engineer Portfolio
 
 A personal portfolio site for a QA automation engineer, built as its own system under test.
-
-**Demo:**
-
-
 
 ---
 
