@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.vercel
+*.log
+.DS_Store
+qa-lab/playwright-report/
+qa-lab/test-results/
